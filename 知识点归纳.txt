@@ -1,0 +1,54 @@
+1  数据存储方面: 
+
+      Mysql-物化视图 ;  SQL 优化;  Redis;  ElasticSearch;
+
+2  
+
+  基础0
+
+      jdk1.8新特性以及使用;
+
+
+   基础1
+   
+     JVM几个知识点;
+
+   基础2
+
+     数据结构(HashMap实现原理)
+
+     多线程;
+  
+     RabbitMQ;
+
+   基础3 
+
+    通讯协议相关知识点;
+
+
+3 框架方面
+
+ 
+ SpringBoot; SpringDataJPA; Mybatis;
+
+
+
+
+4 分布式方面;
+
+
+
+
+
+5 工具的使用:
+
+
+    Git/Jenkins/Docker/Linux使用;
+
+
+    Idea的使用;
+
+
+
+
+
